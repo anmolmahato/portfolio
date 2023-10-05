@@ -1186,4 +1186,13 @@
     .footer-text {
         font-size: 12px;
     }
+}.iframeDiv {
+    width: 100%;
+    max-width: 1080px;
+}
+
+
+.iframeModal {
+    min-height: 380px !important;
+    width: 100%;
 }
